@@ -132,4 +132,6 @@ If you have any questions or need help, please open an issue on GitHub.
 
 ---
 
-Built with ❤️ using Next.js and shadcn/ui
+Made with ❤️ by [elseblock.io](https://elseblock.io)
+
+Built with Next.js and shadcn/ui
