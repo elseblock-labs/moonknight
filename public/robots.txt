@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Allow: /sign-in
+Allow: /sign-up
+
+# Disallow private/admin areas
+Disallow: /dashboard
